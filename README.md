@@ -1,7 +1,7 @@
 # Sleeping-Habits-of-Couples
-(Dataset by fivethirtyeight)
+(Dataset by fivethirtyeight)  
 I analyzed the sleeping habits of couples. In the dataset I used in my analysis, respondents answer questions like 'how often do you sleep in separate beds?' and 'What are the reasons that you sleep in separate beds?'
-Some other variables, such as age, income and region is included in the dataset
+Some other variables, such as age, income and region are included in the dataset
 
 ### Main insights:
 
